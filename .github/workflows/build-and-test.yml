@@ -22,10 +22,11 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Setup .NET Core SDK
-  uses: actions/setup-dotnet@v1.8.1
-  with:
+        uses: actions/setup-dotnet@v1.8.1
+        with:
     # Optional SDK version to use. If not provided, will install global.json version when available. Examples: 2.2.104, 3.1, 3.1.x
-    dotnet-version: 5.0.x
+          dotnet-version: 5.0.x
+
       -name: Install dependencies
         run: dotnet restore
       -name: Build
