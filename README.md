@@ -1,5 +1,6 @@
 # BDSA_Assignment0
 
+#Exercise 6
 ![bdsa2020assignment00](https://user-images.githubusercontent.com/61271283/132729698-ddbb27c3-c3b7-4b96-be92-6dc8acef39df.PNG)
 
 #Exercise 7
